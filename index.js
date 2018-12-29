@@ -3,5 +3,5 @@ function shouting(str) {
 }
 
 function roundDown(num) {
-  num.toFl
+  num.floor();
 }
