@@ -1,3 +1,7 @@
+function sayHeyFriend(name) {
+  return 
+}
+
 function favoriteIceCream(icecream) {
   return `I love ${icecream}`;
 }
