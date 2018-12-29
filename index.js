@@ -1,5 +1,5 @@
 function sayHeyFriend(name) {
-  return `Hey, ${name}.`;
+  return `Hey, ${name}!`;
 }
 
 function favoriteIceCream(icecream) {
